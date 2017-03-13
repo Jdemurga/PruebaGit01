@@ -1,0 +1,14 @@
+package repositoGH;
+
+import java.util.Scanner;
+
+public class Prueba01 {
+	// subida de prueba a GitHub
+	
+	public static void main(String args[]) {
+		int i;
+		int premCon;
+		int premNum;
+		String prem;
+		int ultimo = 0;
+		Scanner in = new Scanner(System.in);
